@@ -1,0 +1,15 @@
+D:\Repos\MakeMeACupOfCoffee\bin\Debug\net6.0\MakeMeACupOfCoffee.exe
+D:\Repos\MakeMeACupOfCoffee\bin\Debug\net6.0\MakeMeACupOfCoffee.deps.json
+D:\Repos\MakeMeACupOfCoffee\bin\Debug\net6.0\MakeMeACupOfCoffee.runtimeconfig.json
+D:\Repos\MakeMeACupOfCoffee\bin\Debug\net6.0\MakeMeACupOfCoffee.dll
+D:\Repos\MakeMeACupOfCoffee\bin\Debug\net6.0\MakeMeACupOfCoffee.pdb
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.csproj.AssemblyReference.cache
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.AssemblyInfoInputs.cache
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.AssemblyInfo.cs
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.csproj.CoreCompileInputs.cache
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.dll
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\refint\MakeMeACupOfCoffee.dll
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.pdb
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\MakeMeACupOfCoffee.genruntimeconfig.cache
+D:\Repos\MakeMeACupOfCoffee\obj\Debug\net6.0\ref\MakeMeACupOfCoffee.dll
