@@ -1,4 +1,4 @@
-﻿//Demo Async Await
+﻿using System.Runtime.CompilerServices;
 
 MakeCoffee();
 
@@ -98,7 +98,7 @@ async Task<string> EspressoAsync()
     Console.WriteLine("- Preparar shot");
     await PrepararshotAsync();
     Console.WriteLine("- Extrayendo espresso");
-    await Task.Delay(5000);
+    await 5;
     Console.WriteLine("- Espresso listo");
 
     return "Espresso";
@@ -129,4 +129,14 @@ async Task<string> LecheEspumadaAsync()
     return "Leche espumada";
 }
 
+#endregion
+
+#region ExtensionMethods
+public static class ExtensionMethods
+{      
+    public static TaskAwaiter GetAwaiter(this int seconds)
+    {
+        return Task.Delay(TimeSpan.FromSeconds(seconds)).GetAwaiter();
+    }
+}
 #endregion
