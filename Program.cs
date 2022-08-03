@@ -138,5 +138,10 @@ public static class ExtensionMethods
     {
         return Task.Delay(TimeSpan.FromSeconds(seconds)).GetAwaiter();
     }
+    public static TaskAwaiter GetAwaiter(this string message)
+    {
+        Console.WriteLine(message);
+        return Task.Delay(TimeSpan.FromSeconds(5)).GetAwaiter();
+    }
 }
 #endregion
